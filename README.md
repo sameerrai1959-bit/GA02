@@ -8,7 +8,7 @@
 
 ## Assignment Overview
 
-This repository contains the complete solution for the Masai Graded Assignment: QuickPay FinTech Operations Case Study. It covers data cleaning, SQL analysis, Python reconciliation, JSON normalization, and a Looker Studio dashboard.
+This repository contains the complete solution for the Masai Graded Assignment: QuickPay FinTech Operations Case Study. It covers data cleaning, SQL analysis, Python reconciliation, JSON normalizatioNNNNn, and a Looker Studio dashboardDDDD.
 
 ## Tools Used
 
