@@ -3,7 +3,7 @@
 ## Student Details
 
 * **Student Name:** Col Sameer Rai
-* **Student ID:** 
+* **Student ID:** BITSoM_FTAI_2601064
 * **GitHub Repository:** https://github.com/sameerrai1959-bit/GA02
 
 ## Assignment Overview
@@ -15,51 +15,11 @@ This repository contains the complete solution for the Masai Graded Assignment: 
 * **Part 1 (Spreadsheet):** Python (pandas, openpyxl) + Excel / Google Sheets
 * **Part 2 (SQL):** SQLite / standard SQL
 * **Part 3 \& 4 (Python):** Python 3, pandas, Jupyter Notebook
-* **Part 5 (Dashboard):** Google Looker Studio
-
-## Repository Structure
-
-```
-quickpay/
-├── README.md
-├── 01\_data/
-│   ├── raw/
-│   │   ├── transactions\_raw.csv
-│   │   ├── merchant\_master.csv
-│   │   ├── users.csv
-│   │   ├── ledger.csv
-│   │   ├── gateway.csv
-│   │   ├── exchange\_rates.csv
-│   │   └── api\_response\_sample.json
-│   └── processed/
-│       ├── cleaned\_transactions.csv
-│       ├── merchant\_risk\_summary.csv
-│       ├── missing\_in\_gateway.csv
-│       ├── missing\_in\_ledger.csv
-│       ├── amount\_mismatches.csv
-│       ├── status\_mismatches.csv
-│       ├── reconciliation\_report.csv
-│       ├── api\_normalized.csv
-│       ├── daily\_summary.csv
-│       ├── payment\_method\_breakdown.csv
-│       ├── region\_breakdown.csv
-│       └── merchant\_performance\_summary.csv
-├── 02\_spreadsheet/
-│   ├── spreadsheet\_workbook.xlsx
-│   └── spreadsheet\_answers.md
-├── 03\_sql/
-│   ├── analysis\_queries.sql
-│   └── sql\_answers.md
-├── 04\_python/
-│   ├── fintech\_pipeline.ipynb
-│   └── summary\_metrics.json
-└── 05\_visualization/
-    └── dashboard\_link.txt
-```
+* **Part 5 (Dashboard):** Google Looker St
 
 ## How to Run
 
-### Part 1 — Data Cleaning
+### Part 1 — Data Clg
 
 Open `02\_spreadsheet/spreadsheet\_workbook.xlsx` in Excel or Google Sheets.
 The workbook contains:
@@ -91,7 +51,7 @@ Run all cells in order. The notebook will:
 ### Part 5 — Dashboard
 
 See the public Looker Studio dashboard link in:
-`05\_visualization/dashboard\_link.txt`
+`05_visualization/dashboard_link.txt`
 
 ## Key Findings
 
