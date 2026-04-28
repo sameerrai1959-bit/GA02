@@ -1,0 +1,6 @@
+merchant_id,merchant_name,gateway_region,total_txns,total_gmv,captured_gmv,avg_risk,chargeback_count,high_risk_count,high_value_count,chargeback_ratio_pct
+M001,Alpha Mart,APAC,11,40812.0,29984.5,61.2,1,2,2,9.09
+M002,Beta Stores,APAC,11,41782.0,33431.0,69.36,1,5,3,9.09
+M003,City Pharma,EU,2,8640.0,8640.0,40.0,0,0,0,0.0
+M004,Delta Travels,US,4,14600.0,10300.0,48.75,1,1,1,25.0
+M005,Eco Home,EU,2,10246.0,0.0,54.5,1,1,1,50.0
